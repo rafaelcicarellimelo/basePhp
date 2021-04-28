@@ -1,0 +1,15 @@
+{
+    "name": "rafaelcicarelli/base-php",
+    "authors": [
+        {
+            "name": "Rafael Cicarelli",
+            "email": "rafaelcicarelli.m@hotmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "app\\" : "app/"
+        }
+    }
+}
